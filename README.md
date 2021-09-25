@@ -24,11 +24,11 @@ Chatroom for strangers, experts & newbies.
 
 ### Screenshots
 
-![Sign up](https://drive.google.com/file/d/1nO0FB356CUS-9ABIY7D-xchTjObdkd9k/view?usp=sharing)
-![Login](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Dashboard](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Dashboard2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Chat](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Sign up](images/Signup.PNG)
+![Login](images/Login.PNG)
+![Dashboard](images/Dashboard1.PNG)
+![Dashboard2](images/Dashboard2.PNG)
+![Chat](images/Chat.PNG)
 
   
 
