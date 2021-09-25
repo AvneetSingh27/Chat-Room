@@ -1,6 +1,15 @@
 # Chatroom
 Chatroom for strangers, experts & newbies.
 
+
+### Tech Stack
+
+**Client:** React
+
+**Server:** Node, Express, Socket-io
+
+**Database:** Mongo DB
+
 ## What is this all about?
 >Express your views on various ongoing scenarios and make your own custom rooms on subjects that you think are hot for discussion.
 
@@ -23,13 +32,6 @@ Chatroom for strangers, experts & newbies.
 
   
 
-### Tech Stack
-
-**Client:** React
-
-**Server:** Node, Express, Socket-io
-
-**Database:** Mongo DB
 
 
 **Live Soon!!**
